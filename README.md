@@ -1,3 +1,9 @@
+# ❗ This repository is unmaintained and end of life!
+<h2>
+    The samples do no longer comply with the standards and requirements in Jenkins. <br>
+    If you are looking for up-to-date samples and documentation how to use JS in plugins, please consult the <a href="https://jenkins.io">Jenkins documentation</a>.
+</h2>
+
 # jenkins-js Sample Plugins
 
 This repository provides some sample Jenkins Plugins, showing how to use [jenkins-js-builder] to build
